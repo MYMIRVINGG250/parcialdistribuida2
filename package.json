@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "latin-chat",
+  "version": "1.0.0",
+  "description": "cookies",
+  "main": "server.js",
+  "author": "Irving Garcia",
+  "license": "ISC"
+}
